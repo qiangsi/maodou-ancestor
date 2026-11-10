@@ -1,2 +1,1 @@
-# maodou-ancestor
-毛豆始祖
+# 毛豆始祖
